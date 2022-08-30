@@ -1,0 +1,22 @@
+body
+{
+background-position:center ;
+background-size: cover;
+}
+h1
+{
+margin: 0px;
+width: 100%;
+}
+h3
+{
+position: fixed;
+bottom: 0px;
+width: 100%;
+background-color: grey;
+}
+canvas
+{
+border: 2px solid white;
+border-radius: 10px;
+}
